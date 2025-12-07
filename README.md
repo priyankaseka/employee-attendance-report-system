@@ -1,4 +1,5 @@
 **Employee Attendance Management System (Python & MySQL)**
+
 Introduction
 This is a console-based system that helps HR/Admin manage employee attendance, leaves, and monthly reports.
 
